@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Region,Salesperson,Customer,Category,Product,Quantity,Unit_Price,Discount_%,Revenue,Cost,Profit,Payment_Method
+ORD00001,2026-03-08,South,Priya,Customer_025,Electronics,Headphones,7,1179.8,20,6606.88,4628.49,1978.39,Net Banking
+ORD00002,2026-04-29,West,Amit,Customer_011,Furniture,Bookshelf,9,427.0,15,3266.55,2033.67,1232.88,Net Banking
+ORD00003,2026-05-16,West,Karan,Customer_040,Office Supplies,Notebook,2,475.54,15,808.42,543.31,265.11,UPI
+ORD00004,2026-06-21,West,Amit,Customer_013,Electronics,Headphones,5,155.89,10,701.5,544.26,157.24,Net Banking
+ORD00005,2026-06-13,East,Priya,Customer_030,Office Supplies,Pen Set,1,1369.36,10,1232.42,1005.76,226.66,UPI
+ORD00006,2026-01-19,East,Priya,Customer_049,Office Supplies,Stapler,4,1197.34,15,4070.96,2525.6,1545.36,Cash
+ORD00007,2026-03-03,North,Amit,Customer_017,Furniture,Bookshelf,6,1113.96,20,5347.01,4497.78,849.23,Card
+ORD00008,2026-01-17,South,Neha,Customer_025,Furniture,Desk,8,896.99,20,5740.74,4748.6,992.14,Cash
+ORD00009,2026-03-24,North,Karan,Customer_010,Furniture,Desk,4,680.64,15,2314.18,1396.25,917.93,UPI
+ORD00010,2026-01-18,North,Rahul,Customer_022,Office Supplies,Notebook,7,1256.04,5,8352.67,6569.65,1783.02,Cash
+ORD00011,2026-03-08,East,Sneha,Customer_050,Office Supplies,Stapler,8,1158.76,5,8806.58,7226.02,1580.56,Card
+ORD00012,2026-02-10,West,Sneha,Customer_021,Electronics,Headphones,10,559.65,10,5036.85,3608.02,1428.83,UPI
+ORD00013,2026-06-18,South,Sneha,Customer_034,Electronics,Keyboard,8,963.52,0,7708.16,4809.1,2899.06,Net Banking
+ORD00014,2026-02-27,North,Priya,Customer_019,Office Supplies,Printer Paper,10,1110.88,20,8887.04,5123.99,3763.05,Card
+ORD00015,2026-03-07,East,Karan,Customer_008,Electronics,Keyboard,5,1453.52,10,6540.84,3851.45,2689.39,Net Banking
+ORD00016,2026-05-24,West,Karan,Customer_043,Electronics,Monitor,9,565.32,0,5087.88,3580.7,1507.18,Net Banking
+ORD00017,2026-06-25,North,Amit,Customer_010,Office Supplies,Stapler,3,1221.78,10,3298.81,2322.02,976.79,Card
+ORD00018,2026-03-20,South,Priya,Customer_047,Electronics,Keyboard,6,1037.04,5,5911.13,4828.2,1082.93,Card
+ORD00019,2026-04-19,East,Priya,Customer_036,Office Supplies,Notebook,5,95.87,15,407.45,345.03,62.42,Cash
+ORD00020,2026-05-29,South,Rahul,Customer_048,Electronics,Mouse,2,419.61,5,797.26,615.21,182.05,UPI
+ORD00021,2026-05-16,East,Priya,Customer_015,Office Supplies,Notebook,2,1399.38,10,2518.88,1396.72,1122.16,Cash
+ORD00022,2026-01-26,South,Amit,Customer_020,Office Supplies,Printer Paper,10,1102.44,0,11024.4,6390.35,4634.05,Cash
+ORD00023,2026-02-24,East,Amit,Customer_047,Electronics,Laptop,7,16.15,0,113.05,69.82,43.23,Net Banking
+ORD00024,2026-02-05,East,Karan,Customer_018,Electronics,Mouse,7,1027.53,0,7192.71,4811.29,2381.42,Card
+ORD00025,2026-03-04,North,Rahul,Customer_006,Office Supplies,Stapler,3,413.56,5,1178.65,705.64,473.01,Card
+ORD00026,2026-04-27,North,Rahul,Customer_042,Electronics,Laptop,2,500.0,10,900.0,741.38,158.62,Net Banking
+ORD00027,2026-01-17,South,Karan,Customer_009,Furniture,Desk,1,1375.57,5,1306.79,1094.77,212.02,Card
+ORD00028,2026-03-31,South,Rahul,Customer_039,Electronics,Mouse,9,218.38,10,1768.88,1232.0,536.88,UPI
+ORD00029,2026-01-11,West,Priya,Customer_009,Office Supplies,Stapler,7,101.17,0,708.19,465.36,242.83,Cash
+ORD00030,2026-01-13,North,Neha,Customer_017,Electronics,Monitor,4,905.64,20,2898.05,1644.43,1253.62,Net Banking
+ORD00031,2026-03-30,North,Neha,Customer_008,Office Supplies,Notebook,2,376.12,5,714.63,433.32,281.31,Cash
+ORD00032,2026-05-03,South,Sneha,Customer_006,Furniture,Cabinet,5,892.55,20,3570.2,2914.64,655.56,Card
+ORD00033,2026-05-18,North,Amit,Customer_011,Furniture,Desk,10,858.09,20,6864.72,4430.5,2434.22,UPI
+ORD00034,2026-04-15,South,Neha,Customer_016,Office Supplies,Stapler,7,131.84,0,922.88,707.78,215.1,UPI
+ORD00035,2026-02-25,South,Karan,Customer_035,Electronics,Laptop,5,420.83,5,1998.94,1246.74,752.2,Net Banking
+ORD00036,2026-05-20,East,Neha,Customer_020,Office Supplies,Pen Set,2,1113.81,10,2004.86,1594.22,410.64,Cash
+ORD00037,2026-02-27,South,Rahul,Customer_018,Office Supplies,Notebook,8,960.39,10,6914.81,4206.18,2708.63,UPI
+ORD00038,2026-03-13,North,Priya,Customer_026,Electronics,Monitor,2,931.62,10,1676.92,1216.6,460.32,Net Banking
+ORD00039,2026-05-06,West,Rahul,Customer_006,Furniture,Bookshelf,7,445.11,15,2648.4,1820.74,827.66,Card
+ORD00040,2026-03-31,East,Priya,Customer_018,Office Supplies,Notebook,9,231.93,20,1669.9,1049.73,620.17,UPI
+ORD00041,2026-02-25,West,Rahul,Customer_044,Electronics,Monitor,8,699.69,15,4757.89,3962.19,795.7,UPI
+ORD00042,2026-04-20,South,Rahul,Customer_008,Electronics,Keyboard,5,541.93,20,2167.72,1376.39,791.33,Cash
+ORD00043,2026-05-09,North,Rahul,Customer_003,Office Supplies,Pen Set,6,49.39,15,251.89,184.41,67.48,Cash
+ORD00044,2026-06-12,South,Neha,Customer_032,Office Supplies,Notebook,7,304.8,10,1920.24,1063.86,856.38,Cash
+ORD00045,2026-05-13,North,Sneha,Customer_036,Electronics,Keyboard,3,1258.74,10,3398.6,2222.54,1176.06,UPI
+ORD00046,2026-02-07,North,Amit,Customer_049,Office Supplies,Stapler,9,464.06,15,3550.06,2648.87,901.19,UPI
+ORD00047,2026-06-03,North,Priya,Customer_048,Office Supplies,Pen Set,7,572.21,20,3204.38,2298.55,905.83,Cash
+ORD00048,2026-05-08,South,Karan,Customer_030,Electronics,Headphones,9,1130.42,5,9665.09,7836.82,1828.27,Card
+ORD00049,2026-04-07,West,Sneha,Customer_042,Electronics,Monitor,5,700.6,10,3152.7,2361.92,790.78,UPI
+ORD00050,2026-03-26,North,Karan,Customer_041,Electronics,Headphones,8,1320.56,0,10564.48,8476.62,2087.86,Cash
+ORD00051,2026-04-18,West,Sneha,Customer_011,Office Supplies,Notebook,4,1149.27,20,3677.66,2830.78,846.88,UPI
+ORD00052,2026-02-04,South,Sneha,Customer_035,Furniture,Bookshelf,9,291.58,20,2099.38,1751.7,347.68,Net Banking
+ORD00053,2026-05-07,East,Karan,Customer_018,Office Supplies,Pen Set,5,639.47,10,2877.62,1742.58,1135.04,Card
+ORD00054,2026-03-18,South,Priya,Customer_037,Electronics,Keyboard,6,343.86,5,1960.0,1294.39,665.61,Net Banking
+ORD00055,2026-01-08,West,Neha,Customer_026,Furniture,Cabinet,8,1308.0,0,10464.0,6640.67,3823.33,UPI
+ORD00056,2026-01-04,West,Amit,Customer_017,Electronics,Laptop,2,606.45,20,970.32,657.66,312.66,Card
+ORD00057,2026-06-11,South,Sneha,Customer_001,Furniture,Chair,5,1137.65,15,4835.01,4047.15,787.86,Card
+ORD00058,2026-05-11,South,Rahul,Customer_012,Furniture,Cabinet,10,1017.37,15,8647.65,4843.34,3804.31,Net Banking
+ORD00059,2026-04-11,East,Sneha,Customer_044,Electronics,Laptop,5,1172.55,0,5862.75,3643.23,2219.52,UPI
+ORD00060,2026-03-26,East,Neha,Customer_033,Office Supplies,Pen Set,5,1450.21,10,6525.95,4232.99,2292.96,Cash
+ORD00061,2026-02-10,East,Amit,Customer_008,Electronics,Laptop,6,1407.88,0,8447.28,5781.29,2665.99,Card
+ORD00062,2026-02-18,North,Priya,Customer_018,Furniture,Cabinet,2,442.29,10,796.12,467.83,328.29,Cash
+ORD00063,2026-04-21,North,Amit,Customer_047,Electronics,Keyboard,6,1070.32,5,6100.82,4569.35,1531.47,Card
+ORD00064,2026-05-09,South,Neha,Customer_016,Office Supplies,Pen Set,3,523.58,20,1256.59,807.84,448.75,Card
+ORD00065,2026-06-30,South,Amit,Customer_035,Electronics,Headphones,7,273.98,5,1821.97,1256.12,565.85,UPI
+ORD00066,2026-04-01,North,Rahul,Customer_038,Electronics,Headphones,10,787.99,15,6697.91,5334.69,1363.22,Net Banking
+ORD00067,2026-06-03,West,Priya,Customer_040,Electronics,Mouse,8,668.84,15,4548.11,2939.88,1608.23,UPI
+ORD00068,2026-05-27,North,Priya,Customer_006,Furniture,Cabinet,7,1245.89,15,7413.05,4142.41,3270.64,Cash
+ORD00069,2026-05-05,West,Rahul,Customer_001,Office Supplies,Stapler,7,72.71,15,432.62,327.33,105.29,Cash
+ORD00070,2026-06-24,East,Rahul,Customer_026,Furniture,Chair,5,126.5,0,632.5,368.94,263.56,Cash
+ORD00071,2026-04-20,West,Karan,Customer_036,Office Supplies,Notebook,2,662.17,5,1258.12,927.59,330.53,Net Banking
+ORD00072,2026-01-30,South,Karan,Customer_045,Furniture,Desk,10,22.23,15,188.96,126.46,62.5,Card
+ORD00073,2026-06-08,East,Priya,Customer_047,Office Supplies,Notebook,7,1363.14,10,8587.78,6564.16,2023.62,Cash
+ORD00074,2026-04-27,West,Karan,Customer_042,Furniture,Bookshelf,1,65.23,15,55.45,46.36,9.09,UPI
+ORD00075,2026-04-13,South,Amit,Customer_011,Office Supplies,Notebook,5,1174.18,10,5283.81,3548.11,1735.7,Cash
+ORD00076,2026-01-08,South,Rahul,Customer_010,Office Supplies,Printer Paper,2,1109.57,5,2108.18,1456.79,651.39,Cash
+ORD00077,2026-03-02,East,Rahul,Customer_008,Electronics,Mouse,2,1325.54,20,2120.86,1460.81,660.05,UPI
+ORD00078,2026-02-10,East,Priya,Customer_040,Furniture,Chair,6,1244.88,15,6348.89,5119.38,1229.51,Net Banking
+ORD00079,2026-04-30,South,Sneha,Customer_034,Furniture,Cabinet,5,521.67,10,2347.51,1579.34,768.17,Card
+ORD00080,2026-04-18,North,Rahul,Customer_013,Office Supplies,Printer Paper,3,1143.69,10,3087.96,2217.37,870.59,UPI
+ORD00081,2026-01-07,West,Priya,Customer_042,Electronics,Headphones,6,650.92,15,3319.69,2658.19,661.5,Cash
+ORD00082,2026-01-28,West,Priya,Customer_034,Office Supplies,Notebook,10,1369.82,10,12328.38,9461.74,2866.64,Cash
+ORD00083,2026-06-15,West,Karan,Customer_037,Electronics,Laptop,7,1304.71,10,8219.67,6092.34,2127.33,Cash
+ORD00084,2026-03-10,West,Neha,Customer_032,Office Supplies,Notebook,8,1348.5,0,10788.0,8115.98,2672.02,Net Banking
+ORD00085,2026-02-15,North,Sneha,Customer_048,Furniture,Chair,6,432.18,20,2074.46,1470.09,604.37,Card
+ORD00086,2026-04-28,South,Neha,Customer_001,Electronics,Laptop,6,70.05,0,420.3,302.48,117.82,UPI
+ORD00087,2026-06-06,East,Amit,Customer_035,Office Supplies,Stapler,6,252.95,20,1214.16,802.69,411.47,UPI
+ORD00088,2026-02-03,East,Neha,Customer_030,Furniture,Bookshelf,2,138.69,5,263.51,169.46,94.05,Cash
+ORD00089,2026-01-30,South,Rahul,Customer_002,Electronics,Headphones,8,501.69,20,3210.82,2398.14,812.68,Card
+ORD00090,2026-06-30,North,Priya,Customer_024,Electronics,Keyboard,8,747.86,10,5384.59,4066.18,1318.41,UPI
+ORD00091,2026-03-01,East,Neha,Customer_045,Furniture,Chair,7,835.19,0,5846.33,4525.52,1320.81,Cash
+ORD00092,2026-01-04,East,Sneha,Customer_018,Furniture,Cabinet,8,1452.09,0,11616.72,7494.48,4122.24,Card
+ORD00093,2026-03-18,North,Karan,Customer_038,Office Supplies,Stapler,7,1093.2,10,6887.16,4697.89,2189.27,Cash
+ORD00094,2026-06-16,North,Karan,Customer_046,Office Supplies,Printer Paper,4,1483.74,10,5341.46,3627.46,1714.0,Card
+ORD00095,2026-01-06,North,Neha,Customer_015,Office Supplies,Notebook,5,744.69,0,3723.45,2579.24,1144.21,Net Banking
+ORD00096,2026-05-12,East,Priya,Customer_037,Office Supplies,Printer Paper,7,858.3,20,4806.48,3734.67,1071.81,UPI
+ORD00097,2026-01-02,North,Sneha,Customer_050,Electronics,Mouse,8,821.81,15,5588.31,3410.63,2177.68,Card
+ORD00098,2026-06-27,North,Rahul,Customer_041,Office Supplies,Pen Set,5,1446.47,0,7232.35,4507.42,2724.93,Cash
+ORD00099,2026-04-22,North,Rahul,Customer_015,Electronics,Laptop,9,886.95,15,6785.17,5169.96,1615.21,Card
+ORD00100,2026-03-11,East,Priya,Customer_007,Electronics,Keyboard,6,75.78,0,454.68,364.04,90.64,UPI
+ORD00101,2026-05-26,North,Rahul,Customer_014,Electronics,Laptop,9,991.22,5,8474.93,4761.12,3713.81,Net Banking
+ORD00102,2026-02-27,North,Neha,Customer_008,Furniture,Desk,9,22.15,0,199.35,153.92,45.43,Net Banking
+ORD00103,2026-05-07,South,Neha,Customer_010,Furniture,Bookshelf,7,1128.76,0,7901.32,5566.4,2334.92,Card
+ORD00104,2026-02-17,West,Rahul,Customer_005,Electronics,Laptop,4,269.56,5,1024.33,828.13,196.2,Cash
+ORD00105,2026-02-23,South,Priya,Customer_028,Furniture,Chair,1,668.36,20,534.69,379.3,155.39,Card
+ORD00106,2026-04-16,West,Karan,Customer_023,Office Supplies,Printer Paper,7,1116.35,0,7814.45,6278.23,1536.22,Card
+ORD00107,2026-01-23,East,Priya,Customer_037,Office Supplies,Pen Set,4,365.36,0,1461.44,1108.14,353.3,UPI
+ORD00108,2026-01-09,South,Neha,Customer_045,Office Supplies,Pen Set,2,698.34,5,1326.85,1111.71,215.14,Cash
+ORD00109,2026-02-10,East,Priya,Customer_005,Office Supplies,Printer Paper,2,435.52,10,783.94,584.65,199.29,Card
+ORD00110,2026-05-21,South,Karan,Customer_025,Office Supplies,Printer Paper,5,1342.85,10,6042.82,4246.92,1795.9,Cash
+ORD00111,2026-03-09,West,Sneha,Customer_005,Electronics,Keyboard,10,1441.4,20,11531.2,7448.93,4082.27,Net Banking
+ORD00112,2026-03-28,North,Rahul,Customer_023,Electronics,Keyboard,1,236.95,15,201.41,125.76,75.65,Net Banking
+ORD00113,2026-04-24,South,Neha,Customer_019,Furniture,Chair,4,1336.48,20,4276.74,2719.42,1557.32,Net Banking
+ORD00114,2026-06-28,North,Amit,Customer_005,Furniture,Chair,7,808.43,10,5093.11,3948.42,1144.69,UPI
+ORD00115,2026-06-30,North,Priya,Customer_030,Office Supplies,Notebook,2,861.68,10,1551.02,1194.58,356.44,UPI
+ORD00116,2026-05-12,East,Rahul,Customer_011,Electronics,Keyboard,8,465.74,15,3167.03,2510.2,656.83,UPI
+ORD00117,2026-02-10,South,Karan,Customer_044,Electronics,Headphones,3,97.6,0,292.8,232.51,60.29,Cash
+ORD00118,2026-02-17,North,Rahul,Customer_040,Electronics,Keyboard,9,189.6,5,1621.08,1009.39,611.69,Cash
+ORD00119,2026-05-25,South,Priya,Customer_030,Electronics,Headphones,6,1458.87,5,8315.56,4979.37,3336.19,Card
+ORD00120,2026-01-11,East,Sneha,Customer_013,Electronics,Laptop,2,1329.75,0,2659.5,2096.9,562.6,Net Banking
+ORD00121,2026-02-06,East,Neha,Customer_009,Furniture,Bookshelf,5,629.82,0,3149.1,2218.28,930.82,Cash
+ORD00122,2026-03-05,West,Rahul,Customer_014,Office Supplies,Notebook,1,1098.42,20,878.74,555.41,323.33,Net Banking
+ORD00123,2026-06-14,West,Neha,Customer_039,Furniture,Chair,10,1253.68,10,11283.12,6210.57,5072.55,Net Banking
+ORD00124,2026-04-01,North,Amit,Customer_020,Furniture,Cabinet,8,1430.74,0,11445.92,7892.49,3553.43,Net Banking
+ORD00125,2026-05-16,South,Sneha,Customer_009,Office Supplies,Pen Set,2,1006.78,15,1711.53,1212.53,499.0,UPI
+ORD00126,2026-03-11,East,Rahul,Customer_018,Electronics,Headphones,5,1074.68,15,4567.39,3224.16,1343.23,Cash
+ORD00127,2026-05-12,East,Priya,Customer_001,Office Supplies,Printer Paper,9,621.02,0,5589.18,4249.51,1339.67,Net Banking
+ORD00128,2026-05-22,West,Karan,Customer_018,Electronics,Laptop,7,679.27,10,4279.4,2771.86,1507.54,Net Banking
+ORD00129,2026-01-16,East,Sneha,Customer_025,Furniture,Cabinet,9,935.58,0,8420.22,5553.99,2866.23,Net Banking
+ORD00130,2026-01-29,East,Amit,Customer_039,Office Supplies,Pen Set,10,358.15,20,2865.2,1753.27,1111.93,Cash
+ORD00131,2026-04-10,West,Sneha,Customer_045,Furniture,Desk,6,655.06,15,3340.81,2213.46,1127.35,Net Banking
+ORD00132,2026-03-13,South,Amit,Customer_038,Office Supplies,Pen Set,8,629.17,0,5033.36,4027.11,1006.25,Net Banking
+ORD00133,2026-04-30,South,Priya,Customer_021,Office Supplies,Printer Paper,6,837.1,5,4771.47,2954.54,1816.93,Card
+ORD00134,2026-06-06,North,Neha,Customer_043,Office Supplies,Pen Set,5,1471.89,0,7359.45,6254.01,1105.44,UPI
+ORD00135,2026-06-30,South,Karan,Customer_006,Furniture,Desk,4,751.55,15,2555.27,1643.81,911.46,Card
+ORD00136,2026-02-23,South,Neha,Customer_018,Electronics,Keyboard,3,1109.88,5,3163.16,1965.4,1197.76,Cash
+ORD00137,2026-03-20,East,Rahul,Customer_037,Furniture,Cabinet,5,116.78,20,467.12,370.64,96.48,UPI
+ORD00138,2026-05-04,North,Priya,Customer_022,Electronics,Monitor,10,903.87,15,7682.9,6234.7,1448.2,Card
+ORD00139,2026-03-23,South,Amit,Customer_042,Furniture,Desk,7,31.39,10,197.76,168.09,29.67,Cash
+ORD00140,2026-03-26,South,Priya,Customer_001,Furniture,Desk,5,599.96,0,2999.8,2455.53,544.27,Cash
+ORD00141,2026-01-07,East,Sneha,Customer_004,Furniture,Bookshelf,4,986.97,10,3553.09,2192.15,1360.94,Net Banking
+ORD00142,2026-05-22,West,Priya,Customer_019,Electronics,Mouse,6,250.89,20,1204.27,921.97,282.3,Card
+ORD00143,2026-01-10,East,Sneha,Customer_018,Electronics,Mouse,9,296.59,20,2135.45,1745.0,390.45,Card
+ORD00144,2026-04-07,South,Priya,Customer_027,Furniture,Bookshelf,6,732.51,20,3516.05,2337.28,1178.77,Cash
+ORD00145,2026-03-19,East,Sneha,Customer_021,Electronics,Monitor,4,1015.31,20,3248.99,2262.59,986.4,UPI
+ORD00146,2026-05-02,East,Priya,Customer_021,Office Supplies,Printer Paper,9,709.39,20,5107.61,3356.08,1751.53,Card
+ORD00147,2026-05-05,West,Rahul,Customer_024,Furniture,Bookshelf,5,323.71,20,1294.84,956.69,338.15,Cash
+ORD00148,2026-04-23,East,Neha,Customer_015,Furniture,Bookshelf,4,446.45,5,1696.51,998.74,697.77,Cash
+ORD00149,2026-04-16,West,Karan,Customer_006,Furniture,Bookshelf,7,1296.22,5,8619.86,5424.21,3195.65,Card
+ORD00150,2026-03-28,East,Neha,Customer_001,Office Supplies,Printer Paper,8,1336.12,10,9620.06,5966.86,3653.2,UPI
+ORD00151,2026-03-22,East,Neha,Customer_005,Office Supplies,Notebook,4,487.57,10,1755.25,1422.76,332.49,UPI
+ORD00152,2026-04-19,South,Karan,Customer_049,Electronics,Keyboard,5,457.95,5,2175.26,1302.43,872.83,Net Banking
+ORD00153,2026-05-15,North,Sneha,Customer_045,Furniture,Cabinet,1,252.87,20,202.3,157.21,45.09,Net Banking
+ORD00154,2026-02-25,North,Sneha,Customer_042,Electronics,Headphones,9,967.5,0,8707.5,5336.05,3371.45,Cash
+ORD00155,2026-03-06,East,Sneha,Customer_013,Electronics,Laptop,3,583.68,0,1751.04,1142.86,608.18,Cash
+ORD00156,2026-03-30,East,Neha,Customer_022,Furniture,Bookshelf,8,1290.9,10,9294.48,7889.42,1405.06,UPI
+ORD00157,2026-06-12,North,Sneha,Customer_042,Furniture,Desk,1,1097.73,10,987.96,628.07,359.89,Card
+ORD00158,2026-02-17,East,Rahul,Customer_002,Electronics,Laptop,7,646.9,20,3622.64,2759.24,863.4,Cash
+ORD00159,2026-06-06,East,Amit,Customer_023,Office Supplies,Notebook,6,1087.06,0,6522.36,4645.53,1876.83,Cash
+ORD00160,2026-06-08,North,Neha,Customer_045,Electronics,Monitor,6,980.91,20,4708.37,3819.21,889.16,Net Banking
+ORD00161,2026-06-04,North,Neha,Customer_015,Electronics,Mouse,9,1315.96,20,9474.91,6872.05,2602.86,Cash
+ORD00162,2026-03-02,West,Sneha,Customer_043,Furniture,Chair,3,601.97,10,1625.32,1139.88,485.44,Net Banking
+ORD00163,2026-04-23,North,Rahul,Customer_036,Electronics,Laptop,5,460.28,20,1841.12,1427.5,413.62,Net Banking
+ORD00164,2026-02-09,West,Neha,Customer_030,Office Supplies,Pen Set,5,658.41,15,2798.24,2186.54,611.7,Card
+ORD00165,2026-01-16,South,Rahul,Customer_024,Furniture,Chair,8,1202.93,20,7698.75,6445.7,1253.05,Cash
+ORD00166,2026-05-26,North,Rahul,Customer_029,Electronics,Laptop,6,1229.85,20,5903.28,3422.12,2481.16,Net Banking
+ORD00167,2026-03-20,North,Amit,Customer_029,Furniture,Chair,10,984.94,20,7879.52,5810.89,2068.63,Cash
+ORD00168,2026-04-04,West,Sneha,Customer_043,Office Supplies,Stapler,10,1015.02,0,10150.2,5797.04,4353.16,Cash
+ORD00169,2026-05-13,West,Sneha,Customer_050,Electronics,Headphones,7,230.86,15,1373.62,879.66,493.96,Net Banking
+ORD00170,2026-04-27,South,Rahul,Customer_028,Electronics,Mouse,2,642.55,5,1220.84,802.58,418.26,UPI
+ORD00171,2026-04-26,South,Priya,Customer_039,Office Supplies,Printer Paper,7,1420.1,5,9443.66,7198.7,2244.96,Cash
+ORD00172,2026-05-20,West,Priya,Customer_042,Office Supplies,Pen Set,6,1435.23,5,8180.81,6685.06,1495.75,Net Banking
+ORD00173,2026-04-12,South,Rahul,Customer_039,Office Supplies,Notebook,9,1365.92,20,9834.62,5581.66,4252.96,Net Banking
+ORD00174,2026-04-25,South,Rahul,Customer_004,Furniture,Cabinet,9,233.04,15,1782.76,1436.19,346.57,Card
+ORD00175,2026-01-27,West,Amit,Customer_027,Electronics,Headphones,10,662.52,5,6293.94,3876.13,2417.81,Card
+ORD00176,2026-04-12,North,Karan,Customer_009,Office Supplies,Stapler,5,239.63,5,1138.24,685.62,452.62,Card
+ORD00177,2026-03-03,North,Sneha,Customer_031,Office Supplies,Stapler,4,1464.28,0,5857.12,4110.47,1746.65,Net Banking
+ORD00178,2026-04-02,North,Karan,Customer_014,Office Supplies,Printer Paper,8,1393.46,20,8918.14,6947.38,1970.76,UPI
+ORD00179,2026-05-12,South,Neha,Customer_050,Electronics,Monitor,9,813.85,15,6225.95,3486.47,2739.48,Cash
+ORD00180,2026-06-04,South,Neha,Customer_045,Furniture,Bookshelf,8,536.92,10,3865.82,3218.27,647.55,UPI
+ORD00181,2026-05-26,South,Karan,Customer_032,Office Supplies,Notebook,6,1161.28,10,6270.91,4122.17,2148.74,Card
+ORD00182,2026-04-21,South,Priya,Customer_046,Furniture,Desk,8,730.61,20,4675.9,3336.67,1339.23,Cash
+ORD00183,2026-01-21,South,Amit,Customer_015,Furniture,Chair,1,1215.28,15,1032.99,577.43,455.56,Net Banking
+ORD00184,2026-03-23,South,Karan,Customer_043,Office Supplies,Printer Paper,7,1485.96,15,8841.46,7465.8,1375.66,Card
+ORD00185,2026-05-22,West,Sneha,Customer_015,Furniture,Cabinet,2,476.51,20,762.42,548.56,213.86,Cash
+ORD00186,2026-06-17,North,Amit,Customer_031,Furniture,Bookshelf,1,1385.17,0,1385.17,1170.52,214.65,Net Banking
+ORD00187,2026-06-04,South,Karan,Customer_003,Office Supplies,Pen Set,4,463.94,5,1762.97,1287.44,475.53,Card
+ORD00188,2026-05-17,East,Neha,Customer_047,Office Supplies,Printer Paper,8,1063.48,10,7657.06,4942.8,2714.26,UPI
+ORD00189,2026-04-09,North,Rahul,Customer_004,Electronics,Laptop,9,1260.61,15,9643.67,8123.68,1519.99,UPI
+ORD00190,2026-04-18,West,Karan,Customer_003,Furniture,Chair,4,1146.9,20,3670.08,2074.23,1595.85,Net Banking
+ORD00191,2026-04-19,North,Rahul,Customer_003,Office Supplies,Printer Paper,4,1199.83,15,4079.42,2822.33,1257.09,Cash
+ORD00192,2026-03-31,West,Priya,Customer_039,Office Supplies,Stapler,1,270.08,10,243.07,166.74,76.33,UPI
+ORD00193,2026-05-07,South,Rahul,Customer_009,Electronics,Laptop,6,1193.49,10,6444.85,4010.68,2434.17,Cash
+ORD00194,2026-02-14,South,Rahul,Customer_045,Furniture,Cabinet,8,509.9,15,3467.32,1983.73,1483.59,Card
+ORD00195,2026-05-05,North,Sneha,Customer_030,Office Supplies,Notebook,2,1461.71,0,2923.42,1911.5,1011.92,Card
+ORD00196,2026-06-25,West,Neha,Customer_044,Electronics,Keyboard,4,1407.26,20,4503.23,3416.14,1087.09,Cash
+ORD00197,2026-05-01,East,Karan,Customer_025,Furniture,Desk,9,818.11,10,6626.69,4174.79,2451.9,Card
+ORD00198,2026-01-23,North,Sneha,Customer_050,Furniture,Desk,6,777.6,5,4432.32,3362.4,1069.92,Cash
+ORD00199,2026-04-26,South,Neha,Customer_027,Office Supplies,Notebook,7,1303.97,0,9127.79,5175.52,3952.27,Card
+ORD00200,2026-06-06,West,Karan,Customer_021,Office Supplies,Pen Set,3,411.38,10,1110.73,704.35,406.38,Cash
